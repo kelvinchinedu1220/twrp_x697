@@ -2,12 +2,12 @@
 
 export LC_ALL="C"
 
-export OF_MAINTAINER="Gilang.EA"
+export OF_MAINTAINER="nino"
 export FOX_BUILD_TYPE="Stable"
 export FOX_VERSION="R11"
 export FOX_VARIANT="XOS"
 
-export FOX_TARGET_DEVICES="X693,Infinix-X693"
+export FOX_TARGET_DEVICES="X697"
 
 export FOX_AB_DEVICE=1
 export FOX_VIRTUAL_AB_DEVICE=1
